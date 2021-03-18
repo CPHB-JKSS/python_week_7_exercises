@@ -28,3 +28,10 @@ Brug **Selenium** til følgende:
 1. Angiv "Værløse, Danmark" lokationen i toppen af siden.
 2. Tilgå 'burger-menuen', tryk på "Tilbudsaviser" og vælg "Isenkram".
 3.  Indhent en liste over butikkerne og print deres navne (Hint: HTML-elementerne har et navn).
+
+
+### Author
+Hold E
+Gruppe 10
+Alex Wagner - cph-aw116 - cph-aw116@cphbusiness.dk
+Joakim Skaarup Stensnæs - cph-js437 - cph-js437@cphbusiness.dk
